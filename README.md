@@ -1,4 +1,4 @@
-# pwnMENU
+# pwnTOOLS
 ### >> by stimpz0r (2022)
 
 A simple layout for a HTTPD server that is compatible with my other project [pwnMENU](https://github.com/stimpz0r/pwnMENU), used to host tools needed for penetration testing.
